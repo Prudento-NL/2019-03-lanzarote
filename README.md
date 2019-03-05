@@ -1,2 +1,2 @@
 # 2019-03-lanzarote
-Zonvakantie Lanzarote Maart 2019
+De blog van de zonvakantie van Maart 2019 Lanzarote.
