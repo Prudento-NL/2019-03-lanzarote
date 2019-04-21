@@ -29,6 +29,8 @@ images: "https://prudento-nl.github.io/2017-09-frankrijk/images"
   [Jekyll](http://jekyllrb.com/)
 - In de tekst de verwijzing tussen rechte haken en onderaan de blog de verwijzing zoals in Jekyll WERKT NIET IN GITHUB.
 
+Graden teken °: Ctrl+Shift and type u+00b0
+
 ===== Images =====
 Maak een directory voor de images. LET OP! De URL moet toegevoegd worden aan_config.yml.
 
@@ -59,8 +61,7 @@ Maak een directory voor de images. LET OP! De URL moet toegevoegd worden aan_con
 
 ===== Resize =====
 Bij mobiel: gebruik fotoresizer
-- oud-Verklein de foto naar de dimensie: 832 x 1664 (40%)
-- resize naar format 800x1600
+- resize naar format 800x600
 
 ===== Referenties =====
 
